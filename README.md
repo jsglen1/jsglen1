@@ -2,15 +2,23 @@
 
 Soy Ingeniero de sistemas con experiencia en las siguientes tecnologías:
 
+- PM2
+- MUI
+- Prisma
 - Next.js
 - Node.js
 - Nest.js
-- ![JavaScript Logo](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-54.png)
-- TypeScript
-- Prisma
+- MongoDB
+- Mongoose
+- SqlServer
+- PostgreSQL
 - Express.js
+- JavaScript
+- TypeScript
+- Next.Auth.js
 
 Actualmente, estoy explorando nuevas oportunidades y desafíos en el mundo del desarrollo web. Me encanta aprender y trabajar en proyectos que me permitan aplicar y ampliar mis habilidades.
+
 
 📫 **Dónde encontrarme:**
 
