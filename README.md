@@ -5,7 +5,7 @@ Soy Ingeniero de sistemas con experiencia en las siguientes tecnologías:
 - Next.js
 - Node.js
 - Nest.js
-- ```javascript JavaScript
+- ![JavaScript Logo](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png)
 - TypeScript
 - Prisma
 - Express.js
