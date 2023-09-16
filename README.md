@@ -1,31 +1,21 @@
-### ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Jesus Miguel Glen Pedrozo! 👋
 
-👨‍💻 Explorador de nuevas tecnologías y amante del desarrollo de soluciones de software.
-📚 Estudiando [Tus áreas de estudio o intereses].
-💼 Trabajo como [Tu posición actual] en [Tu empresa actual].
-🌱 Interesado en aprender [Tecnologías o habilidades que estás interesado en aprender].
-🚀 Mis Habilidades
+Soy Ingeniero de sistemas con experiencia en las siguientes tecnologías:
 
-#### Tecnologías
+- Next.js
+- Node.js
+- Nest.js
+- JavaScript
+- TypeScript
+- Prisma
+- Express.js
 
-JavaScript TypeScript NodeJS [Otras tecnologías que dominas] [Otras tecnologías que dominas]
+Actualmente, estoy explorando nuevas oportunidades y desafíos en el mundo del desarrollo web. Me encanta aprender y trabajar en proyectos que me permitan aplicar y ampliar mis habilidades.
 
-#### Utilidades
+📫 **Dónde encontrarme:**
 
-[Otras utilidades que utilizas]
+- LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/jesus-miguel-glen-pedrozo-75956a1b6/)
 
-#### DevOps
+Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres conectarte y charlar sobre desarrollo web, ¡no dudes en contactarme en LinkedIn!
 
-Git GitHub [Otras herramientas de DevOps que utilizas]
-
-#### Herramientas de Desarrollo
-
-Visual Studio Code [Otras herramientas de desarrollo que utilizas]
-
-🌎 Dónde encontrarme:
-
-[LinkedIn](https://www.linkedin.com/in/jesus-miguel-glen-pedrozo-75956a1b6/) 
-
----
-
-¡Gracias por visitar mi perfil de GitHub! Siéntete libre de conectarte conmigo en las redes sociales o enviarme un correo electrónico. ¡Estoy emocionado por lo que depara el futuro en el mundo del desarrollo!
+¡Gracias por visitar mi perfil de GitHub!
