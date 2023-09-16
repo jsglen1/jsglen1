@@ -17,6 +17,8 @@ Soy Ingeniero de sistemas 🎓 con experiencia en las siguientes tecnologías: �
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+
 
 📈 estoy explorando nuevas oportunidades y desafíos en el mundo del desarrollo web. Me encanta aprender y trabajar 💻 en proyectos que me permitan aplicar y ampliar mis habilidades.
 
