@@ -18,6 +18,12 @@ Soy Ingeniero de sistemas 🎓 con experiencia en las siguientes tecnologías: �
 ![NodeJS](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![PM2](https://img.shields.io/badge/-PM2-333333?style=flat&logo=pm2)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-333333?style=flat)
+
 
 
 📈 estoy explorando nuevas oportunidades y desafíos en el mundo del desarrollo web. Me encanta aprender y trabajar 💻 en proyectos que me permitan aplicar y ampliar mis habilidades.
