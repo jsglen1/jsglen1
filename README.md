@@ -1,37 +1,31 @@
 ### ¡Hola, soy [Tu Nombre]! 👋
 
-Soy un apasionado por la tecnología y me encanta crear soluciones innovadoras para los desafíos que encuentro. Actualmente, me especializo en [Tus habilidades o tecnologías favoritas].
+👨‍💻 Explorador de nuevas tecnologías y amante del desarrollo de soluciones de software.
+📚 Estudiando [Tus áreas de estudio o intereses].
+💼 Trabajo como [Tu posición actual] en [Tu empresa actual].
+🌱 Interesado en aprender [Tecnologías o habilidades que estás interesado en aprender].
+🚀 Mis Habilidades
 
-![Tu Nombre](enlace_a_tu_foto_de_perfil.jpg)
+#### Tecnologías
 
-#### Conéctate conmigo:
+JavaScript TypeScript NodeJS [Otras tecnologías que dominas] [Otras tecnologías que dominas]
 
-[![LinkedIn](https://www.linkedin.com/in/jesus-miguel-glen-pedrozo-75956a1b6/)
+#### Utilidades
 
----
+[Otras utilidades que utilizas]
 
-### Proyectos Destacados
+#### DevOps
 
-Aquí hay algunos proyectos en los que he estado trabajando recientemente:
+Git GitHub [Otras herramientas de DevOps que utilizas]
 
-#### [Proyecto 1]
+#### Herramientas de Desarrollo
 
-[Descripción breve del proyecto. Puedes incluir tecnologías utilizadas, objetivos y logros.]
+Visual Studio Code [Otras herramientas de desarrollo que utilizas]
 
-[![Proyecto 1](enlace_a_la_imagen_del_proyecto1.jpg)](enlace_al_proyecto1)
+🌎 Dónde encontrarme:
 
-#### [Proyecto 2]
-
-[Descripción breve del proyecto. Puedes incluir tecnologías utilizadas, objetivos y logros.]
-
-[![Proyecto 2](enlace_a_la_imagen_del_proyecto2.jpg)](enlace_al_proyecto2)
-
-#### [Proyecto 3]
-
-[Descripción breve del proyecto. Puedes incluir tecnologías utilizadas, objetivos y logros.]
-
-[![Proyecto 3](enlace_a_la_imagen_del_proyecto3.jpg)](enlace_al_proyecto3)
+[LinkedIn](https://www.linkedin.com/in/jesus-miguel-glen-pedrozo-75956a1b6/) 
 
 ---
 
-¡Gracias por visitar mi perfil de GitHub! Siéntete libre de explorar mis proyectos y ponerse en contacto conmigo a través de mis redes sociales. ¡Espero colaborar contigo en el futuro!
+¡Gracias por visitar mi perfil de GitHub! Siéntete libre de conectarte conmigo en las redes sociales o enviarme un correo electrónico. ¡Estoy emocionado por lo que depara el futuro en el mundo del desarrollo!
