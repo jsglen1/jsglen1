@@ -9,7 +9,7 @@ Soy Ingeniero de sistemas con experiencia en las siguientes tecnologías:
 - Nest.js
 - Mongoose
 - Express.js
-- JavaScript
+- :javascript:JavaScript
 - TypeScript
 - Next.Auth.js
 
