@@ -3,15 +3,11 @@
 Soy Ingeniero de sistemas con experiencia en las siguientes tecnologías:
 
 - PM2
-- MUI
 - Prisma
 - Next.js
 - Node.js
 - Nest.js
-- MongoDB
 - Mongoose
-- SqlServer
-- PostgreSQL
 - Express.js
 - JavaScript
 - TypeScript
