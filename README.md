@@ -1,6 +1,6 @@
 # ¡Hola, soy Jesus Miguel Glen Pedrozo! 👋
 
-Soy Ingeniero de sistemas con experiencia en las siguientes tecnologías:
+Soy Ingeniero de sistemas 🎓 con experiencia en las siguientes tecnologías: 🚀
 
 - PM2
 - Prisma
