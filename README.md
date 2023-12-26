@@ -31,6 +31,6 @@ Soy Ingeniero de sistemas 🎓 con experiencia en las siguientes tecnologías: �
 
 📫 **Dónde encontrarme:**
 
-- LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/jesus-miguel-glen-pedrozo-75956a1b6/) 🎓
+- LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/jesus-miguel-g-75956a1b6/) 🎓
 
 ¡Gracias por visitar mi perfil de GitHub!
