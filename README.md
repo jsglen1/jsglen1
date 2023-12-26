@@ -8,10 +8,16 @@ Soy Ingeniero de sistemas 🎓 con experiencia en las siguientes tecnologías: �
 - Node.js
 - Nest.js
 - Mongoose
+- Sql Server
+- Postgres Sql
 - Express.js
 - JavaScript
 - TypeScript
 - Next.Auth.js
+- Tailwind Css
+- Bootstrap
+- Mui
+- React Libraries ..etc
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
