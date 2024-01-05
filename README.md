@@ -1,9 +1,8 @@
 # ¡Hello, I am Jesus Miguel Glen Pedrozo! 👋
 
-I'm a systems engineer 🎓 with experience in technologies 🚀 fullstack software developer 
-Stack MERN  
-Spanish Native
-English B2 certificate
+I'm a systems engineer 🎓 with experience in technologies 🚀 fullstack software developer |
+Stack MERN |
+Spanish Native | English B2 certificate
 
 📫 **Find me:**
 📈  LinkedIn: [My Profile LinkedIn](https://www.linkedin.com/in/jesus-miguel-g-75956a1b6/) 🎓
