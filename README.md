@@ -2,7 +2,7 @@
 
 I'm a systems engineer 🎓 with experience in technologies 🚀 fullstack software developer |
 Stack MERN |
-Spanish Native | English B2 certificate
+Spanish Native | English B2 
 
 📫 **Find me:**
 📈  LinkedIn: [My Profile LinkedIn](https://www.linkedin.com/in/jesus-miguel-g-75956a1b6/) 🎓
