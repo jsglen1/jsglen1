@@ -10,7 +10,7 @@ Spanish Native | English B2
 - languages -> JavaScript | TypeScript | Kotlin | Java
 - FrontEnd -> React | Next js
 - BackEnd -> Node.js | Express.js | Nest.js
-- DataBase -> Mongoose | SqlServer | PostgresSql | MariaDB
+- DataBase -> MongoDB  | SqlServer | PostgresSql | MySql
 - Servers Manager -> PM2 | Vercel | Render | Heroku | Railways
 - React Libraries and frameworks javascript ..etc
 
