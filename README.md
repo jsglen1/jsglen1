@@ -1,17 +1,18 @@
 # ¡Hello, I am Jesus Miguel Glen Pedrozo! 👋
 
-I'm a systems engineer 🎓 with experience in technologies 🚀 fullstack software developer |
-Stack MERN |
+I'm a systems engineer 🎓 with experience in technologies 🚀 fullstack software developer
 Spanish Native | English B2 
 
 📫 **Find me:**
 📈  LinkedIn: [My Profile LinkedIn](https://www.linkedin.com/in/jesus-miguel-g-75956a1b6/) 🎓
 
 - languages -> JavaScript | TypeScript
-- FrontEnd -> React | Next js
-- BackEnd -> Node.js | Express.js | Nest.js
+- FrontEnd -> React | Angular
+- MetaFramework -> Next
+- BackEnd -> Node | Express | Nest | C# | .Net
 - DataBase -> MongoDB  | SqlServer | PostgresSql | MySql
-- Servers Manager -> PM2 | Vercel | Render | Heroku | Railways
+- Servers Manager -> PM2 | Vercel | Render | Heroku | Railways | AzureDevOps
+- Agile Methodology -> Scrum | Jira | AzureDashboard
 - React Libraries and frameworks javascript ..etc
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
