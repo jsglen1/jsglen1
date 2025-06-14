@@ -7,7 +7,7 @@ Spanish Native | English B2
 📫 **Find me:**
 📈  LinkedIn: [My Profile LinkedIn](https://www.linkedin.com/in/jesus-miguel-g-75956a1b6/) 🎓
 
-- languages -> JavaScript | TypeScript | Kotlin | Java
+- languages -> JavaScript | TypeScript
 - FrontEnd -> React | Next js
 - BackEnd -> Node.js | Express.js | Nest.js
 - DataBase -> MongoDB  | SqlServer | PostgresSql | MySql
